@@ -1,0 +1,22 @@
+{
+  "profiles": [
+    {
+      "firstname": "Raghuram",
+      "lastname": "Rajan",
+      "bio":
+        "Raghuram Govind Rajan is an Indian economist and an international academic who is the Katherine Dusak Miller Distinguished Service Professor of Finance at the University of Chicago Booth School of Business.",
+      "tagline": "Economist",
+      "imgSrc": "RR.jpg",
+      "id": "RR"
+    },
+    {
+      "firstname": "Rahul",
+      "lastname": "Dravid",
+      "bio":
+        "Rahul Dravid is a former Indian cricketer and captain, widely regarded as one of the greatest batsmen in the history of cricket.",
+      "tagline": "Cricketer",
+      "imgSrc": "RD.jpg",
+      "id": "RD"
+    }
+  ]
+}
